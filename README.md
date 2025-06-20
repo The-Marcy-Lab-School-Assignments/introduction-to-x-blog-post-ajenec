@@ -39,11 +39,11 @@ One reason it's so widely loved is that its syntax reads almost like plain Engli
 
 ## Why Learn Python?
 
-Learning Python gives you access to a completely different side of the development world. While JavaScript is good for building great interactive web applications, Python is the go to language for solving problems behind the scenes. Unlike JavaScript, which started from the browser and adapted for back-end development, Python was designed from the beginning to be general purpose and expressive. Engineers at companies like Google and NASA use it because its powerful, readable, and well-supported.
+Learning Python gives you access to a completely different side of the development world. While JavaScript is good for building great interactive web applications, Python is the go to language for solving problems behind the scenes. Unlike JavaScript, which started from the browser and adapted for back-end development, Python was designed from the beginning to be **general purpose and expressive**. Engineers at companies like Google and NASA use it because its powerful, readable, and well-supported.
 
 Python is the most versatile computer programming language, allowing developers to use it for:
 
-- Data Mining,
+- Data Mining
 - Data Analytics
 - Data Visualization
 - AI and machine learning (like training an AI model to write poetry or detect cancer cells)
@@ -127,7 +127,7 @@ a power drill; fast and focused. Python would be a multi-toll that folds out to 
 Key Differences:
 
 - Syntax: Python uses indentation instead of curly braces, which forces you to write clean and readable code.
-- Typing: Python leans more toward clarity and consistency, to allow the developer to ficus on problem solving
+- Typing: Python leans more toward clarity and consistency, to allow the developer to ficus on problem solving.
 - Use Cases: Python dominates AI, data science, automation, ans scripting.
 
 Commonalities:
