@@ -8,7 +8,7 @@ As a coder who’s just mastered JavaScript, you're probably hungry for your nex
 
 One reason it's so widely loved is that its syntax reads almost like plain English, making it _easier to maintain_, write, and debug. While reading this, I'll walk you through what makes Python a great tool for developers, how it compares to JavaScript, and show syntax and features to get you started.
 
-## The Set-Up
+## The Set-Up: Getting Started with Python
 
 1. Install Python
 
@@ -53,7 +53,7 @@ Python is the most versatile computer programming language, allowing developers 
 - Quantitative and Qualitative Analysis
 - Data Engineering
 
-There are a few other capabilities of Python, which is why it is being used more across more industries. Think of Python
+There are a few other capabilities of Python, which is why it is being used more across more industries. 
 
 ## Python in Practice
 
@@ -133,7 +133,7 @@ Key Differences:
 Commonalities:
 
 - Both support object-oriented and functional programming.
-- both have large, supportive communities. Giving you opportunities for feedback.
+- Both have large, supportive communities. Giving you opportunities for feedback.
 - You can build a full-stack applications using either.
 
 ## Conclusion & Tips for learning this language/framework.
