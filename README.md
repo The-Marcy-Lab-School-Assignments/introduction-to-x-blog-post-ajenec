@@ -1,4 +1,4 @@
-# The Muilti-Tool: Intro to Python
+# The Muilti-Tool: Introduction to Python
 
 By Ajene Christian
 
