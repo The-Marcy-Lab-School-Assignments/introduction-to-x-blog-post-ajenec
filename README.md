@@ -1,4 +1,4 @@
-# The Muilti-Tool: Intro to Python
+# The Muilti-Tool: Introduction to Python
 
 By Ajene Christian
 
@@ -8,7 +8,7 @@ As a coder who’s just mastered JavaScript, you're probably hungry for your nex
 
 One reason it's so widely loved is that its syntax reads almost like plain English, making it _easier to maintain_, write, and debug. While reading this, I'll walk you through what makes Python a great tool for developers, how it compares to JavaScript, and show syntax and features to get you started.
 
-## The Set-Up
+## The Set-Up: Getting Started with Python
 
 1. **Install Python**
 
@@ -43,7 +43,7 @@ Learning Python gives you access to a completely different side of the developme
 
 Python is the most versatile computer programming language, allowing developers to use it for:
 
-- Data Mining,
+- Data Mining
 - Data Analytics
 - Data Visualization
 - AI and machine learning _(like training an AI model to write poetry or detect cancer cells)_
@@ -133,6 +133,7 @@ a power drill; fast and focused. Python would be a multi-tool that folds out to 
 **Commonalities:**
 
 - Both support object-oriented and functional programming.
+- Both have large, supportive communities. Giving you opportunities for feedback.
 - Both have large, supportive communities. Giving you opportunities for feedback.
 - You can build a full-stack applications using either.
 
