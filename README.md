@@ -10,54 +10,54 @@ One reason it's so widely loved is that its syntax reads almost like plain Engli
 
 ## The Set-Up
 
-1. Install Python
+1. **Install Python**
 
    Go to [python.org](python.org), and download the latest version for your operating system. On Windows, make sure to check the box that says "Add Python to PATH" during installation.
 
-2. Check installation
+2. **Check installation**
 
    Open a terminal and type:
 
-   ```bash
+   ```sh
    python3 --version
    ```
 
-3. Run your first Python script
+3. **Run your first Python script**
 
    Create a new file:
 
-   ```bash
+   ```sh
    touch hello.py
    touch good-bye.txt
    ```
 
    To run your file:
 
-   ```bash
+   ```sh
    python hello.py
    ```
 
 ## Why Learn Python?
 
-Learning Python gives you access to a completely different side of the development world. While JavaScript is good for building great interactive web applications, Python is the go to language for solving problems behind the scenes. Unlike JavaScript, which started from the browser and adapted for back-end development, Python was designed from the beginning to be general purpose and expressive. Engineers at companies like Google and NASA use it because its powerful, readable, and well-supported.
+Learning Python gives you access to a completely different side of the development world. While JavaScript is good for building great interactive web applications, Python is the go to language for solving problems _behind the scenes_. Unlike JavaScript, which started from the browser and adapted for back-end development, Python was designed from the beginning to be **general purpose and expressive**. Engineers at companies like Google and NASA use it because its powerful, readable, and well-supported.
 
 Python is the most versatile computer programming language, allowing developers to use it for:
 
 - Data Mining,
 - Data Analytics
 - Data Visualization
-- AI and machine learning (like training an AI model to write poetry or detect cancer cells)
+- AI and machine learning _(like training an AI model to write poetry or detect cancer cells)_
 - Building apps
 - Web Development and Web Application Development
 - Developing games
 - Quantitative and Qualitative Analysis
 - Data Engineering
 
-There are a few other capabilities of Python, which is why it is being used more across more industries. Think of Python
+There are a few other capabilities of Python, which is why it is being used more across more industries. Think of Python as a Swiss Army knife for developers.
 
 ## Python in Practice
 
-### Variables & Data Types:
+### Variables & Data Types
 
 In Python, you don't use `let`, `const`, or `var` to define a variable. You just write the variable name and assign it a value.
 
@@ -68,7 +68,7 @@ pi = 3.14        # FLOAT
 has_job = False  # BOOLEAN
 ```
 
-### Functions & Code Blocks:
+### Functions & Code Blocks
 
 Use `def` to define a function.
 
@@ -79,7 +79,7 @@ def call_me(name):
 call_me('Jason') # This is how you execute a function
 ```
 
-### Conditionals:
+### Conditionals
 
 ```python
 balance = 42
@@ -92,7 +92,7 @@ else:
     print('Keep Grinding!')
 ```
 
-### Lists and Dictionaries:
+### Lists and Dictionaries
 
 Lists are like arrays and dictionaries are like objects in JavaScript.
 
@@ -101,7 +101,7 @@ dinner = ['Greens', 'Beans', 'Tomatoes', 'Ham'] # List
 table = { name: 'Sam', seat: 1, is_eating: True } # Dictionary
 ```
 
-### Iteration:
+### Iteration
 
 Loops in Python are extremely simple!
 
@@ -121,26 +121,26 @@ while serving_size > 10:
 
 ## Python vs JavaScript
 
-While both are very useful, they each shine in different areas. JavaScript is the best for building a web interface but Python excels in data-heavy tasks, automation, and fast development. If programming languages were tools in a workshop, JavaScript would be
-a power drill; fast and focused. Python would be a multi-toll that folds out to whatever you need.
+While both are very useful, they each shine in different areas. JavaScript is the best for building a web interface but Python **excels in data-heavy tasks, automation, and fast development**. If programming languages were tools in a workshop, JavaScript would be
+a power drill; fast and focused. Python would be a multi-tool that folds out to whatever you need.
 
-Key Differences:
+**Key Differences:**
 
-- Syntax: Python uses indentation instead of curly braces, which forces you to write clean and readable code.
-- Typing: Python leans more toward clarity and consistency, to allow the developer to ficus on problem solving
-- Use Cases: Python dominates AI, data science, automation, ans scripting.
+- **Syntax:** Python uses indentation instead of curly braces, which forces you to write clean and readable code.
+- **Typing:** Python leans more toward clarity and consistency, to allow the developer to ficus on problem solving.
+- **Use Cases:** Python dominates AI, data science, automation, and scripting.
 
-Commonalities:
+**Commonalities:**
 
 - Both support object-oriented and functional programming.
-- both have large, supportive communities. Giving you opportunities for feedback.
+- Both have large, supportive communities. Giving you opportunities for feedback.
 - You can build a full-stack applications using either.
 
-## Conclusion & Tips for learning this language/framework.
+## Conclusion & Tips For Learning Python
 
-Learning Python has made me a better developer. Its helped me improve my problem solving skills without having to worry about syntax. If you already know JavaScript, you'll be able to pick up on it quickly. JavaScript taught me web development but Python helped solidify my coding problem solving skills.
+Learning Python has made me a better developer. Its helped me improve my problem solving skills without having to worry about syntax. If you already know JavaScript, you'll be able to pick up on it quickly. JavaScript taught me web development but Python helped solidify my coding and problem solving skills.
 
-Tips:
+**Tips:**
 
 - Start building small projects
 - Read Documentation [(Free Book!)](https://automatetheboringstuff.com/)
@@ -151,9 +151,7 @@ Tips:
 
 ### Resources
 
-- https://www.fdmgroup.com/news-insights/why-learn-python/
-
-- https://www.geeksforgeeks.org/difference-between-python-and-javascript/
-
-- https://leapcell.io/blog/python-cheat-sheet-a-quick-guide-to-core-syntax-and-features
-- https://www.freecodecamp.org/news/learn-python-for-javascript-developers-handbook/
+- [Why Learn Python? (FDM Group)](https://www.fdmgroup.com/news-insights/why-learn-python/)
+- [Difference Between Python and JavaScript (GeeksforGeeks)](https://www.geeksforgeeks.org/difference-between-python-and-javascript/)
+- [Python Cheat Sheet (Leapcell)](https://leapcell.io/blog/python-cheat-sheet-a-quick-guide-to-core-syntax-and-features)
+- [Learn Python for JavaScript Developers (freeCodeCamp)](https://www.freecodecamp.org/news/learn-python-for-javascript-developers-handbook/)
